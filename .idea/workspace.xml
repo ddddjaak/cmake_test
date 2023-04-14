@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CMakeDemo" targetName="project1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2539b86c-ae57-4ead-8f40-6c01dcc8fcbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OQUIXM8jYLWsUsP53cMjfiQ20b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ClionProject\project1\include" />
+      <recent name="E:\ClionProject\project1\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="project1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CMakeDemo" TARGET_NAME="project1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CMakeDemo" RUN_TARGET_NAME="project1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2539b86c-ae57-4ead-8f40-6c01dcc8fcbe" name="Default Changelist" comment="" />
+      <created>1681492219939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681492219939</updated>
+      <workItem from="1681492222125" duration="46000" />
+      <workItem from="1681492289997" duration="281000" />
+      <workItem from="1681492581636" duration="1369000" />
+      <workItem from="1681494185495" duration="917000" />
+      <workItem from="1681495525155" duration="1386000" />
+      <workItem from="1681497820094" duration="1556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1681496912329">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="453" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.852@0.0.1440.852" timestamp="1681496912329" />
+    <state x="456" y="188" key="EnvironmentVariablesDialog" timestamp="1681498816041">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="456" y="188" key="EnvironmentVariablesDialog/0.0.1440.852@0.0.1440.852" timestamp="1681498816041" />
+    <state x="108" y="193" width="436" height="476" key="FileChooserDialogImpl" timestamp="1681498542415">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="108" y="193" width="436" height="476" key="FileChooserDialogImpl/0.0.1440.852@0.0.1440.852" timestamp="1681498542415" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1681499391158">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1681499391158" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1681499391158">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1681499391158" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1681499391158">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1681499391158" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1681499391158">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1681499391158" />
+    <state x="100" y="82" key="SettingsEditor" timestamp="1681498919804">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="100" y="82" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1681498919804" />
+    <state x="410" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1681495525265">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="410" y="251" key="com.intellij.ide.util.TipDialog/0.0.1440.852@0.0.1440.852" timestamp="1681495525265" />
+    <state x="442" y="68" key="refactoring.ChangeSignatureDialog" timestamp="1681498342884">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="442" y="68" key="refactoring.ChangeSignatureDialog/0.0.1440.852@0.0.1440.852" timestamp="1681498342884" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\shared_demo.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\shared_demo.dir/objects.a @CMakeFiles\shared_demo.dir\objects1.rsp
+g++  -g  -shared -o ..\..\lib\libshared.dll -Wl,--out-implib,..\..\lib\libshared.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\shared_demo.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\shared_demo.dir\linklibs.rsp

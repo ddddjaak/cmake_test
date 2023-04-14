@@ -1,0 +1,8 @@
+"D:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\ClionProject\project1
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+LIBPATHS
+    linked by target "main" in directory E:/ClionProject/project1/src
+
+-- Configuring incomplete, errors occurred!
+See also "E:/ClionProject/project1/cmake-build-debug/CMakeFiles/CMakeOutput.log".

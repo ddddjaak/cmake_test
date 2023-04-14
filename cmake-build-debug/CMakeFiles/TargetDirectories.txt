@@ -1,0 +1,7 @@
+E:/ClionProject/project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/ClionProject/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/ClionProject/project1/cmake-build-debug/src/CMakeFiles/shared_demo.dir
+E:/ClionProject/project1/cmake-build-debug/src/CMakeFiles/static_demo.dir
+E:/ClionProject/project1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+E:/ClionProject/project1/cmake-build-debug/src/CMakeFiles/main.dir
+E:/ClionProject/project1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
